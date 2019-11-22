@@ -10,7 +10,6 @@ export default function App() {
 
     <WebView
         source={{uri: 'https://example.com'}}
-        // style={{marginTop: 20}}
       />
 
   );
